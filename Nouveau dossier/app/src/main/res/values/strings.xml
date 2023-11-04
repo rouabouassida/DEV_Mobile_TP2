@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bouassida_Roua_LSI3_Messure_Glycemie</string>
+    <string name="title">Messure de niveau de Glycemie</string>
+    <string name="msgage">Votre age</string>
+    <string name="question">Est-ce que vous jeuner</string>
+    <string name="bonton">CONSULTER</string>
+</resources>
